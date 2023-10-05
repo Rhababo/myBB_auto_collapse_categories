@@ -6,7 +6,7 @@ function autoCollapseCategory_info()
     return array(
         "name" => "Autocollapse Category",
         "description" => "Allows for categories to be collapsed by default.",
-        "website" => "http://eagle-time.org",
+        "website" => "https://github.com/Rhababo/myBB_auto_collapse_categories/",
         "author" => "Rhababo",
         "authorsite" => "github.com/Rhababo",
         "version" => "1.0",
